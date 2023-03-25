@@ -12,7 +12,7 @@ Responsive Animated Login Form Using HTML CSS & JavaScript.
 
 </ul><h2> Preview ⚡️</h2>
 <p align="center">
-  ![preview img](/preview.png)
+  <img src="https://user-images.githubusercontent.com/99754900/227736301-f62db62e-2dc9-4651-a793-b262676d7eae.png" />
 </p>  
 
 - Animated Login Form Using HTML CSS & JavaScript
