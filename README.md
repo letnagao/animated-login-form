@@ -9,7 +9,7 @@ Responsive Animated Login Form Using HTML CSS & JavaScript.
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/wolf-portfolio?logo=GitHub)](https://github.com/letnagao/wolf-portfolio/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
-</ul><h2> Preview ⚡️</h2>
+<h2> Preview ⚡️</h2>
 ![preview img](/preview.png)
 
 - Animated Login Form Using HTML CSS & JavaScript
