@@ -1,4 +1,4 @@
-## Animated Login Form using HTML, CSS and JavaScript
+## Animated Login Form using HTML, CSS and JavaScript 🎯
 Responsive Animated Login Form Using HTML CSS & JavaScript.
 
 ![Language count](https://img.shields.io/github/languages/count/letnagao/wolf-portfolio?color=green)
@@ -8,13 +8,24 @@ Responsive Animated Login Form Using HTML CSS & JavaScript.
 ![Latest commit](https://img.shields.io/github/last-commit/letnagao/wolf-portfolio?color=red)
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/wolf-portfolio?logo=GitHub)](https://github.com/letnagao/wolf-portfolio/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
+ 
+</ul><h2> Preview ⚡️</h2>
+<table align="center">
+  <tr>
+    <td><video src="https://user-images.githubusercontent.com/99754900/227738162-607c5bad-7992-4865-a6e6-062166a33ce5.mp4" src="" width=895 height=480></td>
+  </tr>
+</table>
 
-## Preview 
-<p align="center">
-  <video src="https://user-images.githubusercontent.com/99754900/227738162-607c5bad-7992-4865-a6e6-062166a33ce5.mp4" />
-</p>  
-
-## Usage 📋
+</ul><h2>Technologies Used 🛠️</h2>
+<ul>
+<li>JavaScript</li>
+</ul><ul>
+<li>HTML</li>
+</ul><ul>
+<li>CSS</li>
+</ul><ul>
+  
+</ul><h2>Usage 📋</h2>
 <details open>
 <summary>1. Server Setup</summary>
 
